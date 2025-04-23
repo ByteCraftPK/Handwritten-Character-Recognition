@@ -17,6 +17,9 @@ Welcome to the Handwritten Character Recognition project repository! This projec
 - **Accuracy:**
   - Achieved an impressive accuracy rate of 93%.
 
+- **Prize:**
+  - Won 2nd Prize at MIT-WPU Project Innovation competition.
+
 - **Sponsorship:**
   - Proudly sponsored by the Central Bank of India.
 
